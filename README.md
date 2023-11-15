@@ -7,3 +7,4 @@ I bucket the analysis by seperating Matchups, league, Teams, and players into se
 
 Within Jupyter notebook, I used the python3 kernel and libraries within python such as Pandas, NUmpy, Matplotlib, and seaborn.
 
+Attached are .ipynb files from each time I reran the report. Additional attachments include the cleaned datasets ((FF master list) + (Standings)) pulled from excel in .csv format.
